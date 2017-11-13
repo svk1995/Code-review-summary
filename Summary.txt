@@ -1,0 +1,4 @@
+SUMMARY
+
+	The Building scene recognition software is unique and will prove to be very useful to Boston University students. Some issues which I noticed with the code for this project were firstly, the more complicated portions of code were not commented and as a result some parts of the code were difficult to understand. Specifically I noticed this problem for the code which connects the front end and the back end __init.py__ which uses the Flask tool and also for the secondpageconnected.js file.
+	Also, the algorithm could be extended for a larger number of buildings within the Boston University campus and real time updation of events in a particular building could be incorporated as is indicated in the user stories.
